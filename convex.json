@@ -1,0 +1,6 @@
+{
+  "deployment": "https://quirky-camel-582.convex.site",
+  "features": {
+    "httpActions": true
+  }
+}
